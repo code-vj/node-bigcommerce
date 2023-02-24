@@ -1,6 +1,7 @@
 # Bigcommerce for Node.js
 
 [![Code Climate](https://codeclimate.com/repos/54b673f7e30ba0704d01ed1d/badges/1745c700ed531663cc86/gpa.svg)](https://codeclimate.com/repos/54b673f7e30ba0704d01ed1d/feed) [![Test Coverage](https://codeclimate.com/repos/54b673f7e30ba0704d01ed1d/badges/1745c700ed531663cc86/coverage.svg)](https://codeclimate.com/repos/54b673f7e30ba0704d01ed1d/feed)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcode-vj%2Fnode-bigcommerce.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcode-vj%2Fnode-bigcommerce?ref=badge_shield)
 
 [![Build Status](https://travis-ci.org/Receiptful/node-bigcommerce.svg?branch=master)](https://travis-ci.org/Receiptful/node-bigcommerce) [![bitHound Overall Score](https://www.bithound.io/github/Receiptful/node-bigcommerce/badges/score.svg)](https://www.bithound.io/github/Receiptful/node-bigcommerce) [![bitHound Dependencies](https://www.bithound.io/github/Receiptful/node-bigcommerce/badges/dependencies.svg)](https://www.bithound.io/github/Receiptful/node-bigcommerce/master/dependencies/npm) [![bitHound Dev Dependencies](https://www.bithound.io/github/Receiptful/node-bigcommerce/badges/devDependencies.svg)](https://www.bithound.io/github/Receiptful/node-bigcommerce/master/dependencies/npm) [![bitHound Code](https://www.bithound.io/github/Receiptful/node-bigcommerce/badges/code.svg)](https://www.bithound.io/github/Receiptful/node-bigcommerce)
 
@@ -310,3 +311,7 @@ npm test
 This module was originally written to be used with [Receiptful](https://receiptful.com) and is used in a production environment currently. This will ensure that this module is well maintained, bug free and as up to date as possible.
 
 Receiptful's developers will continue to make updates as often as required to have a consistently bug free platform, but we are happy to review any feature requests or issues and are accepting constructive pull requests.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcode-vj%2Fnode-bigcommerce.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcode-vj%2Fnode-bigcommerce?ref=badge_large)
